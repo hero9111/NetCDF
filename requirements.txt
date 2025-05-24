@@ -1,0 +1,7 @@
+PyQt6
+PyQt6-WebEngine
+plotly
+numpy
+netCDF4
+kaleido
+xarray
