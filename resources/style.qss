@@ -1,1 +1,19 @@
-
+/* resources/style.qss */
+QWidget {
+    font-family: 'Noto Sans', Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    background: #1a202c;
+    color: #e1e1e1;
+}
+QTreeWidget, QTextEdit {
+    background: #232b3a;
+    color: #d4f0fc;
+}
+QTabWidget::pane {
+    border: 1px solid #566175;
+    border-radius: 4px;
+}
+QStatusBar {
+    background: #171923;
+    color: #cbd5e1;
+}
