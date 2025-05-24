@@ -1,1 +1,148 @@
-
+2025-05-23 18:56:20,482 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 18:56:26,101 [INFO] 플롯 생성: bsg_EsEdLu_d01
+2025-05-23 18:56:26,231 [INFO] 플롯 창 오픈: bsg_EsEdLu_d01
+2025-05-23 18:56:33,115 [INFO] 플롯 생성: bsg_Lwn_d02
+2025-05-23 18:56:33,200 [INFO] 플롯 창 오픈: bsg_Lwn_d02
+2025-05-23 18:56:35,447 [INFO] 플롯 생성: rsg_EsEdLu_d02
+2025-05-23 18:56:35,569 [INFO] 플롯 창 오픈: rsg_EsEdLu_d02
+2025-05-23 19:23:45,101 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 19:23:48,576 [INFO] 플롯 생성: bsg_EsEdLu_d02
+2025-05-23 19:23:49,008 [INFO] 플롯 창 오픈: bsg_EsEdLu_d02
+2025-05-23 19:23:58,021 [INFO] 플롯 생성: bsg_Lw_d02
+2025-05-23 19:23:58,123 [INFO] 플롯 창 오픈: bsg_Lw_d02
+2025-05-23 19:24:28,761 [INFO] 플롯 생성: rsg_EsEdLu_d02
+2025-05-23 19:24:28,851 [INFO] 플롯 창 오픈: rsg_EsEdLu_d02
+2025-05-23 19:31:32,811 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 19:31:36,618 [INFO] 플롯 변수 경로: bsg_EsEdLu_d02
+2025-05-23 19:31:36,623 [INFO] 데이터 shape: (4, 774), dtype: float64
+2025-05-23 19:31:36,784 [INFO] 플롯 생성 완료: bsg_EsEdLu_d02
+2025-05-23 19:31:36,876 [INFO] 플롯 창 오픈: bsg_EsEdLu_d02
+2025-05-23 19:31:43,503 [INFO] 플롯 변수 경로: rsg_wavelength
+2025-05-23 19:31:43,508 [INFO] 데이터 shape: (4, 738), dtype: float64
+2025-05-23 19:31:43,550 [INFO] 플롯 생성 완료: rsg_wavelength
+2025-05-23 19:31:43,632 [INFO] 플롯 창 오픈: rsg_wavelength
+2025-05-23 19:43:11,577 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 19:43:15,160 [INFO] 플롯 변수 경로: bsg_EsEdLu_d01
+2025-05-23 19:43:15,164 [INFO] 데이터 shape: (4, 774), dtype: float64
+2025-05-23 19:43:15,316 [INFO] 플롯 생성 완료: bsg_EsEdLu_d01
+2025-05-23 19:43:15,710 [INFO] 플롯 창 오픈: bsg_EsEdLu_d01
+2025-05-23 19:49:12,675 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 19:49:18,936 [INFO] 플롯 shape:(4, 774), dtype:float64, Sample:[57.08517931 52.85232898 57.39305732 57.22090821 52.71353702 51.85454932
+ 58.01350896 61.7110362  63.1808782  66.89229939]
+2025-05-23 19:49:19,036 [INFO] 플롯 창 오픈: bsg_EsEdLu_d01
+2025-05-23 19:49:24,763 [INFO] 플롯 shape:(4, 738), dtype:float64, Sample:[150.42378166 151.00055075 152.27802073 150.56991082 148.6276535
+ 150.40032144 149.26865388 147.58214432 147.01778761 147.07313256]
+2025-05-23 19:49:24,849 [INFO] 플롯 창 오픈: rsg_EsEdLu_d02
+2025-05-23 19:49:34,499 [INFO] 플롯 shape:(4, 738), dtype:float64, Sample:[150.42378166 151.00055075 152.27802073 150.56991082 148.6276535
+ 150.40032144 149.26865388 147.58214432 147.01778761 147.07313256]
+2025-05-23 19:49:34,601 [INFO] 플롯 창 오픈: rsg_EsEdLu_d02
+2025-05-23 19:58:11,165 [INFO] 플롯 shape:(3, 774), dtype:float64, Sample:[1.15660793 1.20886386 1.14503657 1.16302803 1.08231812 1.11961099
+ 1.13962368 1.17292047 1.19586779 1.24938289]
+2025-05-23 19:58:11,264 [INFO] 플롯 창 오픈: bsg_Lwn_d02
+2025-05-23 20:02:31,279 [INFO] 플롯 shape:(3, 774), dtype:float64, Sample:[1.15660793 1.20886386 1.14503657 1.16302803 1.08231812 1.11961099
+ 1.13962368 1.17292047 1.19586779 1.24938289]
+2025-05-23 20:02:31,714 [INFO] 플롯 창 오픈: bsg_Lwn_d02
+2025-05-23 20:03:21,345 [INFO] 플롯 shape:(3, 774), dtype:float64, Sample:[0.07405517 0.07390399 0.07375132 0.07359734 0.07344226 0.07328634
+ 0.07312985 0.07297308 0.07281635 0.07266001]
+2025-05-23 20:03:21,448 [INFO] 플롯 창 오픈: bsg_Kl_d02
+2025-05-23 21:38:18,487 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 21:45:05,590 [INFO] 플롯 성공: shape=(3, 774) dtype=float64
+2025-05-23 21:45:05,630 [INFO] 플롯 창 오픈: bsg_Kl_d02
+2025-05-23 21:45:38,615 [INFO] About 창 표시.
+2025-05-23 21:45:50,322 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 21:45:54,521 [INFO] 플롯 성공: shape=(3, 774) dtype=float64
+2025-05-23 21:45:54,560 [INFO] 플롯 창 오픈: bsg_Kl_d01
+2025-05-23 21:47:01,960 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 21:47:05,310 [INFO] 플롯 성공: shape=(3, 774) dtype=float64
+2025-05-23 21:47:05,350 [INFO] 플롯 창 오픈: bsg_Lw_d01
+2025-05-23 22:03:10,612 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 22:03:19,726 [INFO] 플롯 성공: shape=(4, 738) dtype=float64
+2025-05-23 22:03:19,769 [INFO] 플롯 창 오픈: rsg_wavelength
+2025-05-23 22:03:41,299 [INFO] 클립보드 복사 성공
+2025-05-23 22:03:46,148 [INFO] 플롯 성공: shape=(3, 738) dtype=float64
+2025-05-23 22:03:46,198 [INFO] 플롯 창 오픈: rsg_Kl_d02
+2025-05-23 22:03:55,798 [INFO] 플롯 성공: shape=(3, 738) dtype=float64
+2025-05-23 22:04:42,213 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 22:04:47,349 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 22:04:51,896 [INFO] 플롯 성공: shape=(4, 774) dtype=float64
+2025-05-23 22:04:52,064 [INFO] 플롯 창 오픈: bsg_EsEdLu_d02
+2025-05-23 22:08:55,045 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 22:31:25,179 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 22:31:33,308 [INFO] 플롯 성공: shape=(3, 774) dtype=float64
+2025-05-23 22:31:33,495 [INFO] 플롯 창 오픈: bsg_Lwn_d02
+2025-05-23 22:46:30,723 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 22:46:36,258 [INFO] 플롯 성공: shape=(3, 774) dtype=float64
+2025-05-23 22:46:36,295 [INFO] 플롯 창 오픈: bsg_Kl_d02
+2025-05-23 22:46:48,878 [INFO] 정보 복사 완료.
+2025-05-23 22:54:01,716 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 22:54:06,734 [INFO] 플롯 성공: shape=(4, 774) dtype=float64
+2025-05-23 22:54:06,914 [INFO] 플롯 창 오픈: bsg_EsEdLu_d02
+2025-05-23 22:55:08,720 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-23 22:55:13,227 [INFO] 플롯 성공: shape=(3, 774) dtype=float64
+2025-05-23 22:55:13,420 [INFO] 플롯 창 오픈: bsg_Lwn_d02
+2025-05-24 08:02:46,922 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-24 08:02:50,573 [INFO] 플롯 성공: shape=(3, 738) dtype=float64
+2025-05-24 08:02:50,834 [INFO] 플롯 창 오픈: rsg_Kl_d01
+2025-05-24 08:03:06,566 [INFO] 클립보드 복사 성공
+2025-05-24 08:03:40,731 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-24 08:09:06,824 [INFO] 파일 트리/정보 로드 완료: C:\Users\thhan\oceanocal_v2\sample_data\20220920_235414_spec02.nc
+2025-05-24 08:09:10,586 [INFO] 플롯 성공: shape=(4, 738) dtype=float64
+2025-05-24 08:09:10,625 [INFO] 플롯 창 오픈: rsg_EsEdLu_d02
+2025-05-24 15:55:36,983 [INFO] 애플리케이션 설정 로드 완료: C:/Users/thhan/AppData/Roaming\oceanocal_app_settings.json
+2025-05-24 15:55:36,984 [INFO] Loaded geometry: size=PyQt6.QtCore.QSize(1280, 720), pos=PyQt6.QtCore.QPoint(100, 100)
+2025-05-24 15:57:02,345 [INFO] 애플리케이션 설정 로드 완료: C:/Users/thhan/AppData/Roaming\oceanocal_app_settings.json
+2025-05-24 15:57:02,345 [INFO] Loaded geometry: size=PyQt6.QtCore.QSize(1280, 720), pos=PyQt6.QtCore.QPoint(100, 100)
+2025-05-24 15:57:30,339 [INFO] 애플리케이션 설정 로드 완료: C:/Users/thhan/AppData/Roaming\oceanocal_app_settings.json
+2025-05-24 15:57:30,340 [INFO] Loaded geometry: size=PyQt6.QtCore.QSize(1280, 720), pos=PyQt6.QtCore.QPoint(100, 100)
+2025-05-24 15:58:41,244 [INFO] 애플리케이션 설정 로드 완료: C:/Users/thhan/AppData/Roaming\oceanocal_app_settings.json
+2025-05-24 15:58:41,244 [INFO] Loaded geometry: size=PyQt6.QtCore.QSize(1280, 720), pos=PyQt6.QtCore.QPoint(100, 100)
+2025-05-24 16:01:17,076 [INFO] 애플리케이션 설정 로드 완료: C:/Users/thhan/AppData/Roaming\oceanocal_app_settings.json
+2025-05-24 16:01:17,076 [INFO] Loaded geometry: size=PyQt6.QtCore.QSize(1280, 720), pos=PyQt6.QtCore.QPoint(100, 100)
+2025-05-24 16:01:51,952 [INFO] 애플리케이션 설정 로드 완료: C:/Users/thhan/AppData/Roaming\oceanocal_app_settings.json
+2025-05-24 16:01:51,953 [INFO] Loaded geometry: size=PyQt6.QtCore.QSize(1280, 720), pos=PyQt6.QtCore.QPoint(100, 100)
+2025-05-24 16:01:52,000 [INFO] 애플리케이션 설정 저장 완료: C:/Users/thhan/AppData/Roaming\oceanocal_app_settings.json
+2025-05-24 16:02:50,070 [INFO] Saved geometry: size=PyQt6.QtCore.QSize(1280, 720), pos=PyQt6.QtCore.QPoint(79, 67)
+2025-05-24 16:02:50,070 [INFO] 애플리케이션 설정 저장 완료: C:/Users/thhan/AppData/Roaming\oceanocal_app_settings.json
+2025-05-24 16:40:44,236 [INFO] PlotManager 초기화 완료.
+2025-05-24 16:40:44,294 [INFO] 메인 윈도우 초기화 완료.
+2025-05-24 16:40:44,295 [INFO] 상태바: 준비 완료.
+2025-05-24 16:40:54,137 [INFO] 상태바: '20220920_235414_spec02.nc' 파일 여는 중...
+2025-05-24 16:40:54,138 [INFO] Status: '20220920_235414_spec02.nc' 파일 여는 중...
+2025-05-24 16:40:54,213 [INFO] 상태바: '20220920_235414_spec02.nc' 파일 열기 완료.
+2025-05-24 16:40:54,213 [INFO] Status: '20220920_235414_spec02.nc' 파일 열기 완료.
+2025-05-24 16:40:59,101 [INFO] 상태바: '20220920_235414_spec02.nc' 로드 실패.
+2025-05-24 16:40:59,101 [ERROR] 파일 열기 오류: C:/Users/thhan/oceanocal_v2/sample_data/20220920_235414_spec02.nc - 'MainPanel' object has no attribute 'load_tree'
+Traceback (most recent call last):
+  File "C:\Users\thhan\oceanocal_v2\main_window.py", line 249, in open_file
+    self.main_panel.load_tree(ds, filepath)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainPanel' object has no attribute 'load_tree'
+2025-05-24 16:40:59,105 [INFO] 상태바: '20220920_235414_spec02.nc' 파일 닫기 완료.
+2025-05-24 16:40:59,105 [INFO] Status: '20220920_235414_spec02.nc' 파일 닫기 완료.
+2025-05-24 16:41:42,745 [INFO] PlotManager 초기화 완료.
+2025-05-24 16:41:42,773 [INFO] 메인 윈도우 초기화 완료.
+2025-05-24 16:41:42,773 [INFO] 상태바: 준비 완료.
+2025-05-24 16:42:57,938 [INFO] PlotManager 초기화 완료.
+2025-05-24 16:42:57,964 [INFO] 메인 윈도우 초기화 완료.
+2025-05-24 16:42:57,964 [INFO] 상태바: 준비 완료.
+2025-05-24 16:43:02,704 [INFO] 상태바: '20220920_235414_spec02.nc' 파일 여는 중...
+2025-05-24 16:43:02,704 [INFO] Status: '20220920_235414_spec02.nc' 파일 여는 중...
+2025-05-24 16:43:02,720 [INFO] 상태바: '20220920_235414_spec02.nc' 파일 열기 완료.
+2025-05-24 16:43:02,720 [INFO] Status: '20220920_235414_spec02.nc' 파일 열기 완료.
+2025-05-24 16:43:25,517 [INFO] 상태바: '20220920_235414_spec02.nc' 로드 실패.
+2025-05-24 16:43:25,518 [ERROR] 파일 열기 오류: C:/Users/thhan/oceanocal_v2/sample_data/20220920_235414_spec02.nc - 'MainPanel' object has no attribute 'load_tree'
+Traceback (most recent call last):
+  File "C:\Users\thhan\oceanocal_v2\main_window.py", line 249, in open_file
+    self.main_panel.load_tree(ds, filepath)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainPanel' object has no attribute 'load_tree'
+2025-05-24 16:43:25,521 [INFO] 상태바: '20220920_235414_spec02.nc' 파일 닫기 완료.
+2025-05-24 16:43:25,522 [INFO] Status: '20220920_235414_spec02.nc' 파일 닫기 완료.
+2025-05-24 16:50:12,452 [INFO] 메인 윈도우 초기화 중...
+2025-05-24 16:50:12,492 [INFO] 상태바: 준비 완료.
+2025-05-24 16:52:03,539 [INFO] 메인 윈도우 초기화 중...
+2025-05-24 16:52:03,565 [INFO] 상태바: 준비 완료.
+2025-05-24 16:52:03,570 [INFO] PlotManager 초기화 완료.
+2025-05-24 16:53:48,000 [INFO] 메인 윈도우 초기화 중...
+2025-05-24 16:53:48,028 [INFO] 상태바: 준비 완료.
+2025-05-24 16:55:39,856 [INFO] 상태바: 준비 완료.
